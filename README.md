@@ -1,23 +1,23 @@
-<!-- Banner / Intro -->
+<!-- Intro -->
 <h1 align="center">🚀 Vivek Raja</h1>
 <h3 align="center">MERN Stack Developer | Full-Stack Engineer</h3>
 
 <p align="center">
-  📍 Tamil Nadu, India • 💼 Full-Stack Development • 📧 rajavivek773@gmail.com  
+  📍 Tamil Nadu, India • 📧 rajavivek773@gmail.com  
 </p>
 
 ---
 
 ## 🔥 About Me
-I’m a passionate MERN Stack Developer and Full-Stack Engineer focused on building clean, scalable, and user-centric web applications.  
-I enjoy transforming ideas into real-world digital solutions with modern technologies, optimized performance, and clean architecture.
+I’m a passionate MERN Stack Developer and Full-Stack Engineer focused on building clean, scalable, and performant web applications.  
+I love developing modern interfaces, efficient backend systems, and seamless end-to-end solutions.
 
-- 🌐 Full-Stack Development (Frontend + Backend)  
-- ⚡ Building responsive, high-performance web apps  
-- 🛠️ Writing clean, maintainable, scalable code  
-- 🧩 Solving real-world problems with structured logic  
-- 📦 Creating REST APIs, authentication systems & dashboards  
-- 🎯 Always exploring new tools, frameworks & dev workflows  
+- 🌐 Full-Stack Web Development  
+- ⚡ Building responsive, fast, and optimized applications  
+- 🛠️ REST APIs, Authentication, Routing, Middleware  
+- 📦 State Management, UI Components, Clean Architecture  
+- 🧩 Strong debugging & problem-solving approach  
+- 🚀 Always improving with new tools, frameworks & workflows  
 
 ---
 
@@ -66,18 +66,18 @@ I enjoy transforming ideas into real-world digital solutions with modern technol
 ---
 
 ## 🏆 Achievements & Highlights
-- 🚀 Developed multiple full-stack applications using MERN  
-- 🧱 Built reusable components, layouts & UI systems  
-- 🔐 Implemented authentication & secure backend APIs  
-- 📂 Worked with real-time data, dashboards & admin panels  
-- 📦 Experience deploying apps on cloud platforms  
-- 🎯 Strong understanding of software architecture & scalability  
+- 🚀 Created and deployed multiple MERN stack applications  
+- 🧱 Developed reusable UI components & layouts  
+- 🔐 Implemented authentication, authorization & secure APIs  
+- 📂 Experience building dashboards, admin panels & forms  
+- 📦 Worked with REST architecture, MVC, routers, controllers  
+- 🎯 Strong understanding of clean code & scalability  
 
 ---
 
 ## 📞 Contact
-📧 Email: **rajavivek773@gmail.com**  
-🌍 Location: **Tamil Nadu, India**
+📧 **Email:** rajavivek773@gmail.com  
+📍 **Location:** Tamil Nadu, India  
 
 ---
 
