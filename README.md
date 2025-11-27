@@ -1,45 +1,96 @@
-<!-- Intro -->
+<!-- Header -->
 <h1 align="center">🚀 Vivek Raja</h1>
-<h3 align="center">MERN Stack Developer | Full-Stack Engineer</h3>
+<h3 align="center">MERN Stack Developer | Full-Stack Engineer | JavaScript Specialist</h3>
 
 <p align="center">
-  📍 Tamil Nadu, India • 📧 rajavivek773@gmail.com  
+  📍 Tamil Nadu, India | 📧 rajavivek773@gmail.com  
 </p>
 
 ---
 
-## 🔥 About Me
-I’m a passionate MERN Stack Developer and Full-Stack Engineer focused on building clean, scalable, and performant web applications.  
-I love developing modern interfaces, efficient backend systems, and seamless end-to-end solutions.
+## 🔥 Professional Summary
+I am a results-driven **MERN Stack Developer** and **Full-Stack Engineer** with a strong foundation in modern web technologies, clean architecture, and scalable application development. I specialize in building **high-performance, responsive, and user-focused web applications**.
 
-- 🌐 Full-Stack Web Development  
-- ⚡ Building responsive, fast, and optimized applications  
-- 🛠️ REST APIs, Authentication, Routing, Middleware  
-- 📦 State Management, UI Components, Clean Architecture  
-- 🧩 Strong debugging & problem-solving approach  
-- 🚀 Always improving with new tools, frameworks & workflows  
+With a passion for solving real-world problems through technology, I bring:
+
+- 💡 Strong analytical & problem-solving capability  
+- 🔐 Secure backend engineering & API development  
+- ⚡ Performance-optimized frontend interfaces  
+- 🧩 Expertise in end-to-end JavaScript ecosystem  
+- 📦 Production-ready software delivery mindset  
+- 🤝 Strong collaboration, ownership, and attention to detail  
+
+I thrive in an environment where innovation meets execution.
 
 ---
 
-## 💻 Tech Stack
+## 💼 Core Competencies (ATS Optimized)
+- Full-Stack Web Development (MERN)
+- Component-Driven UI Architecture
+- REST API Development & Integration
+- Authentication, Authorization & Security
+- State Management & Reusable UI Systems
+- Responsive Frontend Engineering
+- Backend Logic, MVC, Routing & Controllers
+- Database Modeling & Query Optimization
+- Deployment & Production Build Optimization
+- Modern JavaScript (ES6+), Async Programming
 
-### 🚀 **Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+---
+
+## 💻 Technical Skills
+
+### 🚀 **Frontend Technologies**
+![React](https://img.shields.io/badge/React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+---
 
 ### 🛠️ **Backend & Database**
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node](https://img.shields.io/badge/Node_JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express_JS-000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🧰 **Tools**
+---
+
+### ⚙️ **Tools & Development Environment**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-0E1E25?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+
+---
+
+## 📂 Featured Expertise (ATS Keywords Included)
+
+### 🔧 **Full-Stack Development**
+- End-to-end development using MERN  
+- Reusable component systems  
+- UI/UX focused architecture  
+- Responsiveness & cross-browser compatibility  
+
+### 🛠️ **Backend Engineering**
+- REST API design & implementation  
+- Authentication (JWT, bcrypt)  
+- Secure data handling & middleware logic  
+- Role-based access control  
+
+### 🗄️ **Database & Storage**
+- MongoDB schema design  
+- Query optimization & indexing  
+- Mongoose ODM integration  
+- Data validation & consistency  
+
+### ⚡ **Performance & Optimization**
+- Clean code & architectural patterns  
+- Lazy loading, memoization, code-splitting  
+- API optimization & efficient routing  
+- Scalable backend design  
 
 ---
 
@@ -56,6 +107,17 @@ I love developing modern interfaces, efficient backend systems, and seamless end
 
 ---
 
+## 🏆 Achievements & Impact
+- 🚀 Built and deployed multiple full-stack web applications.  
+- 🧱 Developed reusable UI components and scalable architecture.  
+- 🔐 Implemented secure authentication systems using JWT.  
+- 📦 Experience in API integration, CRUD operations, and backend logic.  
+- 🧩 Strong debugging, troubleshooting, and problem-solving capabilities.  
+- 🎯 Demonstrated ability to deliver high-quality code under deadlines.  
+- ⚡ Focused on performance, clean code, and user experience.  
+
+---
+
 ## 🌐 Connect With Me
 <p align="left">
   <a href="https://github.com/VivekRaja01"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
@@ -65,20 +127,10 @@ I love developing modern interfaces, efficient backend systems, and seamless end
 
 ---
 
-## 🏆 Achievements & Highlights
-- 🚀 Created and deployed multiple MERN stack applications  
-- 🧱 Developed reusable UI components & layouts  
-- 🔐 Implemented authentication, authorization & secure APIs  
-- 📂 Experience building dashboards, admin panels & forms  
-- 📦 Worked with REST architecture, MVC, routers, controllers  
-- 🎯 Strong understanding of clean code & scalability  
-
----
-
 ## 📞 Contact
 📧 **Email:** rajavivek773@gmail.com  
 📍 **Location:** Tamil Nadu, India  
 
 ---
 
-<h3 align="center">✨ Building clean, modern, scalable applications — one commit at a time.</h3>
+<h3 align="center">✨ Delivering clean, modern, scalable web applications — one commit at a time.</h3>
