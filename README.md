@@ -82,11 +82,9 @@
 
 ---
 
-##💻 Full-Stack Engineering Mastery
+## 💻 Full-Stack Engineering Mastery
 
 <div>
-
-### 🌐 Full-Stack Engineering Excellence
 
 
 ### 🖥️ Frontend & JavaScript Frameworks
