@@ -4,10 +4,9 @@
 # 🚀 Vivek Raja P
 ###  MERN Stack Developer & Full-Stack Engineer
 
-*Pioneering the future of intelligent software solutions*
+*Pioneering scalable, intelligent full-stack solutions*
 
-[![Portfolio - Vivek Raja](https://img.shields.io/badge/Portfolio-Vivek_Raja-blue?style=for-the-badge)](https://vivekraja01.github.io/Vivek-Raja-Github.io/)
-
+[![Portfolio - Vivek Raja](https://img.shields.io/badge/Portfolio-Vivek_Raja Github.io-blue?style=for-the-badge)](https://vivekraja01.github.io/Vivek-Raja-Github.io/)
 [![Email](https://img.shields.io/badge/📧_Contact-rajavivek773@gmail.com-red?style=for-the-badge)](mailto:rajavivek773@gmail.com)
 [![Location](https://img.shields.io/badge/📍_Based_in-Tamilnadu,India-green?style=for-the-badge)](#)
 
@@ -17,26 +16,30 @@
 
 ## 🎯 About Me
 
-> **Passionate AI Engineer & Full-Stack Developer** crafting next-generation intelligent applications that bridge the gap between human creativity and machine intelligence.
+> **Passionate MERN Stack Developer & Full-Stack Engineer** Crafting next-generation full-stack applications that bridge innovation and seamless user experiences.
 
-- � **AI/ML Specialist** - Building cutting-edge AI models, neural networks, and intelligent systems
-- 🧠 **Deep Learning Expert** - Specializing in NLP, Computer Vision, and Generative AI
-- 💡 **Innovation Driver** - Transforming complex problems into elegant AI-powered solutions
-- 🔬 **Research Enthusiast** - Contributing to the advancement of artificial intelligence
-- 🌟 **Tech Visionary** - Exploring the intersection of AI, blockchain, and quantum computing
+- 💻 **Full-Stack Architect** - Building scalable, high-performance MERN applications with modular, enterprise-grade architecture
+- ⚡ **Performance Optimizer** - Specializing in ultra-responsive, high-velocity full-stack systems with seamless UX
+- 🛠️ **API & Database Specialist** - Developing robust RESTful APIs and scalable, fault-tolerant MongoDB-powered back-end systems
+- 🌐 **Web Innovation Driver** - Turning complex challenges into elegant, business-driven web solutions with cloud-ready frameworks
+- 🌟 **Tech Visionary** - Exploring cutting-edge web technologies, full-stack optimization, and next-generation cloud platforms
 
 ---
 
-## 🚀 AI & Machine Learning Arsenal
+## 🚀 MERN Stack & Full-Stack Arsenal
 
 <div>
 
-### 🧠 Core AI Technologies
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge&logoColor=white)
+### 🧠 Core Full-Stack Technologies
+
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+
 
 ### 🔬 Advanced AI Techniques & Algorithms
 - **🗣️ Natural Language Processing** - GPT-4, BERT, T5, RoBERTa, LSTM, GRU, Claude
