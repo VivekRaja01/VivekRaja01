@@ -1,170 +1,121 @@
 <!-- Header -->
-<h1 align="center">🚀 Vivek Raja P</h1>
-<h3 align="center">MERN Stack Developer & Full-Stack Engineer</h3>
+<h1 align="center">🚀 Vivek Raja</h1>
+<h3 align="center">MERN Stack Developer • Full-Stack Engineer • AI-Assisted Developer</h3>
 
 <p align="center">
-  🌍 Tamil Nadu, India • 📧 rajavivek773@gmail.com  
+  📍 Tamil Nadu, India • 📧 rajavivek773@gmail.com  
 </p>
 
 ---
 
-# ⚡ Tagline  
-### **Full-stack MERN solutions engineered to outperform, outlast, and drive business growth.**
+# 🌟 Professional Summary
+I am a dedicated **MERN Stack Developer & Full-Stack Engineer** focused on building **high-performance, scalable, and production-ready web applications**. My approach blends **clean code, efficient architecture, and strong problem-solving**, along with **AI-assisted enhancements** to deliver smarter digital solutions.
 
 ---
 
-# 🌟 About Me  
-I am a **MERN Stack Developer & Full-Stack Engineer** with a passion for building **clean, scalable, and high-performance web applications** that create real business impact.
+# 💼 Core Competencies
 
-### 💡 **My Strengths**
+### 🧩 MERN & Full-Stack Development
+- React.js, Node.js, Express.js, MongoDB  
+- RESTful API Architecture & Microservices  
+- Clean Code & Scalable Design Patterns  
+- Authentication (JWT, Sessions, RBAC)  
+- Optimized NoSQL Models & Aggregation Pipelines  
+- Redux Toolkit & Context API
+
+### ⚡ Frontend Engineering
+- Modern React (Hooks, Custom Hooks)  
+- Tailwind CSS, HTML5, ES6+  
+- Performance Optimization  
+- Responsive & Pixel-perfect UI
+
+### 🛠 Backend Engineering
+- Secure API architecture & middleware logic  
+- MVC-based Node.js structure  
+- Caching, Queues, Scheduled Jobs  
+- File uploads, cloud integration  
+- Data validation & error handling
+
+### 🗄️ Databases
+- MongoDB • Mongoose  
+- Query optimization, indexing, schema design
+
+---
+
+# 🤖 AI & Prompt Engineering (Lite)
+Using AI tools to enhance development speed & user experience:
+
+- LLM-enhanced features  
+- Smart content automation  
+- Prompt engineering  
+- Basic chatbot-style workflows  
+- AI-powered form checks & automation
+
+**Tools:** OpenAI • Gemini • HuggingFace APIs • LangChain (lite)
+
+---
+
+# 🚀 Tech Stack
+
+### **Languages**
+JavaScript • TypeScript • HTML • CSS  
+
+### **Frameworks & Libraries**
+React.js • Node.js • Express.js • Tailwind CSS  
+
+### **Database**
+MongoDB • Mongoose  
+
+### **Tools & DevOps**
+Git • GitHub • VS Code • Postman • Firebase • Render • Vercel  
+
+---
+
+# 🔥 Current Focus
+- Building **production-grade MERN apps**  
+- Designing **scalable REST APIs**  
+- Crafting **professional UI/UX**  
+- Integrating small-scale **AI automation**  
+- Learning advanced cloud & system design  
+
+---
+
+# 📌 Strengths
 - Clean-Code Practitioner  
 - Strong API Architecture Skills  
 - Scalable System Design Approach  
 - Quick Learner & Problem Solver  
 - Production-Ready Development Style  
 
-### 🧠 **My Development Style**
-Crafting **scalable, high-performance MERN applications** with:
-- Clean, maintainable code  
-- Resilient APIs  
-- Cloud-ready architecture  
-- Production-grade engineering  
-- Measurable business impact  
+---
 
-### 🎯 **My Focus**
-💻 **Full-Stack Architect** – Building efficient MERN-based web systems  
-⚡ **Performance Optimizer** – Fast, responsive UI & backend engineering  
-🛠 **API & DB Specialist** – REST APIs, MongoDB, server-side logic  
-🌐 **Web Innovation Driver** – Turning complex ideas into digital solutions  
-🌟 **Tech Visionary** – Exploring cloud, modern web stacks & advanced architectures  
+# 🧩 Featured Projects
+(Add when ready — I will format them cleanly for you.)
 
 ---
 
-# 🛠️ Tech Stack
-
-## 💻 Frontend  
-- React.js, Redux Toolkit  
-- JavaScript (ES6+), HTML5, CSS3  
-- Tailwind CSS, Bootstrap  
-
-## 🧩 Backend  
-- Node.js, Express.js  
-- REST APIs, Authentication  
-- Custom Middleware  
-
-## 🗄️ Database  
-- MongoDB, Mongoose  
-- Aggregation Pipelines  
-
-## 🛠 Tools / DevOps  
-- Git, GitHub  
-- Postman, VS Code  
-- Docker (optional)  
-- CI/CD (Basics)
-
-## 🚀 Deployment  
-- Vercel  
-- Netlify  
-- Render  
-
-## 🎨 UI / Designing  
-- Figma  
-- Adobe XD  
-- Canva  
-- Photoshop  
-- Illustrator  
-
-## 🤖 AI / ML Skills  
-- Prompt Engineering  
+# 📈 GitHub Performance
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VivekRaja01&theme=radical&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" />
+</p>
 
 ---
 
-# 📂 Featured Projects
+# 🤝 Connect With Me
 
-## 1️⃣ **Greenden – Tailwind CSS**
-A clean, modern UI website showcasing real-world layout design and responsiveness.  
-🏆 *Prize-winning project at EMC Academy*  
-**Tech:** HTML5, Tailwind CSS  
-
----
-
-## 2️⃣ **TripExplorer – Responsive Travel Website**
-A dynamic travel platform featuring destinations, ratings, and trip planning.  
-**Tech:** HTML5, CSS3, Media Queries  
+- **GitHub:** https://github.com/VivekRaja01  
+- **LinkedIn:** https://www.linkedin.com/in/vivekraja127/  
+- **Portfolio:** https://vivekraja01.github.io/Vivek-Raja-Github.io/  
+- **Instagram:** https://www.instagram.com/vivek_raja127/  
+- **Email:** rajavivek773@gmail.com  
 
 ---
 
-## 3️⃣ **Login-Page – Vibely Buzz**
-An interactive and animated authentication flow with smooth transitions.  
-**Tech:** HTML5, CSS3, JavaScript, Animate.css, Font Awesome  
-
----
-
-## 4️⃣ **EliteView – Movie & TV Streaming Platform**
-A Netflix-inspired streaming web app with advanced UI, animation & API integration.  
-**Tech Stack:**  
-- React (Vite) ⚛  
-- Tailwind CSS 🎨  
-- Framer Motion ✨  
-- React Router DOM 🛣  
-- TMDB API 🎬  
-- LocalStorage 💾  
-
----
-
-## 5️⃣ **Rain Or Shine – Real-Time Weather App**
-Live weather, AQI, UV index, visual charts & dynamic backgrounds.  
-**Tech Stack:**  
-- React (Vite)  
-- Tailwind  
-- Recharts + Chart.js  
-- OpenWeatherMap API  
-- Axios  
-
----
-
-## 6️⃣ **Do You Love Me? – Fun Interactive Web App**
-A playful webpage that forces the user to only click **YES** 😄  
-**Tech:** HTML, CSS, JavaScript  
-
----
-
-# 🏆 Achievements  
-- ⭐ **20+ Projects Completed**  
-- ⭐ **Fresher working on real online projects**  
-- ⭐ **Prize Winner – Greenden (EMC Academy)**  
-- ⭐ Certifications in:  
-  - Web Development  
-  - AWS  
-  - Oracle  
-  - Python  
-  - Microsoft Certiport  
-  - Prompt Engineering  
-  - MERN Stack (EMC)  
-
----
-
-# 🌐 Connect With Me  
-
-🔗 **GitHub:** https://github.com/VivekRaja01  
-🔗 **LinkedIn:** https://www.linkedin.com/in/vivekraja127/  
-🔗 **Portfolio:** https://vivekraja01.github.io/Vivek-Raja-Github.io/  
-🔗 **Instagram:** https://www.instagram.com/vivek_raja127/  
-
----
-
-# 🤖 MERN Developer Humor (because coding needs fun!)
-
-**9 AM:** "Let's build the next big app!" ☀  
-**11 AM:** "Why isn’t this React component rendering?" 🤯  
-**1 PM:** "Commit, push, pray to GitHub gods…" 🙏  
-**3 PM:** "Why does Node.js crash *only* in production?" 💀  
-**5 PM:** "Tailwind classes everywhere… looks weird in dark mode" 🎨  
-**7 PM:** "Just one more API endpoint…" 🔗  
-**10 PM:** "Finally deployed! User reports… 404 errors" 😅  
-**12 AM:** "Refactor everything… tomorrow." 💻  
-
----
-
-<h3 align="center">✨ Delivering powerful MERN solutions with precision, performance, and purpose. ✨</h3>
-
+# ✨ A Touch of Personality
+```js
+const developerLife = {
+  codeStyle: "Clean & scalable",
+  favoriteStack: "MERN",
+  coffeeLevel: "Optimized at runtime",
+  mission: "Build solutions that perform, scale, and inspire."
+};
