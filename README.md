@@ -6,7 +6,7 @@
 
 *Pioneering the future of intelligent software solutions*
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Vivek-Raja-Github.io/-blue?style=for-the-badge)](http://Vivek-Raja-Github.io/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Vivek-Raja-Github.io-blue?style=for-the-badge)](https://vivekraja01.github.io/Vivek-Raja-Github.io/)
 [![Email](https://img.shields.io/badge/📧_Contact-rajavivek773@gmail.com-red?style=for-the-badge)](mailto:rajavivek773@gmail.com)
 [![Location](https://img.shields.io/badge/📍_Based_in-Tamilnadu,India-green?style=for-the-badge)](#)
 
