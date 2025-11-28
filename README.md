@@ -127,221 +127,347 @@
 
 ---
 
-## 🔬 Current AI Research & Projects
+## 🔬 Current Full-Stack Engineering Projects & Innovations
 
-### 🚀 **Cutting-Edge AI Initiatives**
-- 🤖 **Large Language Model Fine-tuning** - Custom domain-specific AI models with LoRA and QLoRA
-- 🧠 **Neural Architecture Search** - Automated ML model optimization using AutoML techniques
-- 🔍 **AI-Powered Analytics** - Intelligent data interpretation with Graph Neural Networks
-- 🎯 **Recommendation Engines** - Advanced personalization using Deep Collaborative Filtering
-- 🌐 **Multimodal AI** - Vision-Language model integration with CLIP and BLIP architectures
-- 🔐 **AI Security & Ethics** - Robust, responsible AI with adversarial training and bias detection
-- 🔮 **Quantum-Classical Hybrid Models** - Exploring quantum advantage in machine learning
-- 🎨 **Generative Art & Content** - Custom diffusion models for creative AI applications
-- 📈 **Real-time AI Inference** - Edge computing deployment with TensorFlow Lite and ONNX
-- 🕸️ **AI Agent Orchestration** - Multi-agent systems with reinforcement learning protocols
+### 🚀 **Cutting-Edge Full-Stack Engineering Initiatives**
+
+- ⚡ **Enterprise-Scale MERN Architectures** – Building modular, high-performance systems with seamless API workflows.
+
+- 🎨 **Next-Gen Frontend Engineering** – Crafting ultra-responsive UIs with React, Next.js, and component-driven design.
+
+- 🗄️ **Database Performance Engineering** – Designing optimized MongoDB schemas, indexing strategies, and aggregation pipelines.
+
+- 🔄 **Real-Time System Development** – Implementing live features with WebSockets and event-driven backend patterns.
+
+- 🛡️ **Security-First Engineering** – Applying JWT/OAuth2, rate limiting, validation pipelines, and backend hardening.
+
+- ☁️ **Cloud-Native Deployment** – Scaling apps using Docker, AWS, Vercel, CI/CD, and automated workflows.
+
+- 🚀 **Performance Optimization** – SSR/ISR tuning, caching strategies, load optimization, and high-speed rendering.
+
+- 🧩 **Modular Full-Stack Components** – Creating reusable utilities, middleware layers, and shared service modules.
+
+- 🔌 **Third-Party Integrations** – Payment gateways, authentication services, cloud APIs, and enterprise integrations.
+
+- 🕸️ **End-to-End System Orchestration** – Engineering cohesive, production-ready digital ecosystems.
 
 ---
 
-## 🎭 Developer Humor & Techy Vibes
+## 🎭 Full-Stack Humor & Techy Vibes
 
 <div>
 
-### 💭 **The Chronicles of an AI Engineer**
+### 💭 **The Odyssey of a Full-Stack Visionary**
 
-```python
-class AkhshyGanesh:
-    def __init__(self):
-        self.coffee_level = float('inf')
-        self.bugs_fixed = []
-        self.models_trained = 9000  # It's over 9000!
-        self.sleep_hours = lambda: random.randint(2, 4)
-        
-    def debug_neural_network(self):
-        while self.model.accuracy < 0.99:
-            print("Why aren't you learning? 😭")
-            self.add_more_layers()  # Classic move
-            self.drink_coffee()
-            
-    def explain_ai_to_relatives(self):
-        return "I teach computers to think... No, not like Skynet!"
-        
-    def weekend_plans(self):
-        return ["Train Model from scratch", "Maybe go outside", "Nah, more coding"]
+*Engineering seamless digital experiences through scalable architectures, refined codecraft, and next-generation MERN innovation.*
+
+```Javascript
+class VivekRaja {
+    constructor() {
+        this.coffeeLevel = 999999; // doctor said stop, I said no.
+        this.bugsFixed = [];
+        this.productionIssues = ["works_on_my_machine"];
+        this.sleepHours = () => [1, 2, 3][Math.floor(Math.random() * 3)]; // chaos mode
+    }
+
+    fixFrontend() {
+        console.log("🎨 React UI Broken Again? Let's blame CSS.");
+        while (true) {
+            this.addRandomPadding();
+            this.addImportantTag(); // ultimate power
+            if (Math.random() > 0.9) break; // 10% chance frontend stops bullying
+        }
+    }
+
+    fixBackend() {
+        console.log("🛠️ Backend down? Must be MongoDB… or Node… or life.");
+        this.consoleLog("why-no-work??");
+        this.restartServer();
+        this.restartAgain(); // because restarting solves everything
+    }
+
+    explainJobToRelatives() {
+        return (
+            "I build websites.\n" +
+            "No uncle, I don’t hack Facebook.\n" +
+            "Yes aunty, I can fix your phone but I really don’t want to."
+        );
+    }
+
+    deployToProduction() {
+        console.log("🚀 Deploying to production…");
+        if (Math.random() > 0.5) {
+            console.log("🔥 Production exploded. Not my fault.");
+        } else {
+            console.log("✨ It worked. Nobody touch anything.");
+        }
+    }
+
+    weekendPlans() {
+        return [
+            "Start new project at 2 AM",
+            "Refactor code nobody asked for",
+            "Cry over a bug I created",
+            "Promise to rest",
+            "Write more code instead"
+        ];
+    }
+}
+
 ```
 
-### 🤖 **AI Engineer's Daily Routine (in memes)**
-- **9 AM**: "Today I'll create AGI!" 
-- **12 PM**: "Why won't this tensor reshape?" 🤔
-- **3 PM**: "GPU memory error... again" 💀
-- **6 PM**: "It's not a bug, it's an undocumented feature" 😎
-- **9 PM**: "Just one more epoch..." 
-- **3 AM**: "EUREKA! 99.9% accuracy!" 🎉
-- **3:01 AM**: "Wait, that's the training set..." 😅
+### 🤖 **MERN Stack Developer's Daily Routine (in memes)**
 
-### 🧠 **My Relationship with AI Models**
+**9 AM**: "Today I’ll build a clean, scalable full-stack app!" 😎
+
+**12 PM**: "Why is React re-rendering 47 times??" 🤦‍♂️
+
+**3 PM**: "MongoDB decided to take a nap. Connection refused." 💀
+
+**6 PM**: "This API works locally… therefore the bug is the server’s personality issue." 😌
+
+**9 PM**: "Just one more component refactor…"
+
+**1 AM**: "Why did I write this logic? What version of me coded this?" 😭
+
+**2:30 AM**: "YES!! Everything works perfectly!" 🎉
+
+**2:31 AM**: Frontend: “Bro, I wasn’t supposed to work.” 😅
+
+### 🧩 **My Relationship with the MERN Stack**
 ```bash
-$ git commit -m "Finally fixed the gradient exploding issue"
-$ git commit -m "Okay, NOW it's fixed"
-$ git commit -m "I'm not crying, you're crying"
-$ git commit -m "Model works! Don't touch ANYTHING"
-$ git commit -m "Added one print statement, broke everything"
+$ git commit -m "Fixed one API route… I think"
+$ git commit -m "Okay, backend REALLY works now"
+$ git commit -m "React state is haunting me"
+$ git commit -m "Everything finally works! NOBODY TOUCH ANYTHING"
+$ git commit -m "Changed one CSS class, entire layout exploded"
+$ git commit -m "Why is MongoDB empty… WHO DELETED MY DOCUMENTS"
+$ git commit -m "Console.log saved my life again"
+
 ```
 
 ### 💡 **Debugging Wisdom**
-> *"There are only 10 types of people in the world: those who understand binary, those who don't, and those who are still training their first neural network."*
+> *"A full-stack engineer turns every bug into an opportunity—building resilient, scalable, and high-performance web applications from frontend to backend."*
 
 </div>
 
 ---
 
-## 🔧 Advanced Tech Arsenal & Experiments
+## 🔧 Full-Stack Engineering Arsenal & Innovations
 
 <div>
 
 ### ⚡ **Bleeding-Edge Technologies I Tinker With**
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-### 🔬 **Research & Development Playground**
-- **🔗 Blockchain + AI** - Decentralized machine learning protocols
-- **🎮 Procedural Generation** - AI-driven content creation for games and media
-- **🎤 Voice Cloning** - Custom speech synthesis with 5-minute samples
-- **👁️ Real-time Object Tracking** - Multi-object tracking with Kalman filters
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge\&logo=express\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge\&logo=graphql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![WebSockets](https://img.shields.io/badge/WebSockets-008080?style=for-the-badge\&logo=websockets\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-000000?style=for-the-badge\&logo=serverless\&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-007ACC?style=for-the-badge\&logo=architecture-diagram\&logoColor=white)
 
+
+### 🔬 **Full-Stack Development Playground**
+- **🌐 Modern Web Architectures** – Exploring scalable MERN stack apps, SSR/CSR strategies, and micro-frontends.
+
+-**⚡ Real-Time Applications** – WebSockets, Socket.io, and live data streaming for dynamic user experiences.
+
+-**☁️ Cloud-Integrated Systems** – Serverless functions, Firebase, AWS Lambda, and scalable deployments.
+
+-**🛠️ API & Database Experiments** – Advanced REST/GraphQL APIs, MongoDB/PostgreSQL optimization, and caching strategies.
+
+-**🎨 Interactive Frontend Prototypes** – React/Next.js UIs with Tailwind, animations, and component-driven design.
+
+-**🚀 Performance & Optimization** – Load balancing, query optimization, progressive web apps, and CI/CD pipelines.
 ### 💾 **System Architecture & Performance**
 ```yaml
 Current Setup:
-  GPU: "RTX 4090 (My precious) 💎"
-  RAM: "128GB DDR5 (Because Chrome)"
-  Storage: "2TB NVMe SSD (Need for Speed)"
-  Monitors: "Triple 4K (More screens = more productivity)"
-  Coffee Machine: "Industrial Grade ☕"
-  
-Distributed Computing:
-  - Docker Swarm orchestration
-  - Kubernetes for model serving
-  - Apache Spark for big data processing
+  Laptop: "16-inch MacBook Pro M2 (Warrior of Code) 💻"
+  RAM: "64GB DDR5 (Because Chrome never forgets)"
+  Storage: "2TB NVMe SSD (Faster than my patience)"
+  Monitors: "Dual 4K + 1 Ultrawide (Spreadsheets fear me)"
+  Coffee Machine: "Industrial Barista Mode ☕"
+  Headphones: "Noise-cancelling for ignoring meetings 🎧"
+
+Development Stack:
+  Frontend: 
+    - React.js ("My emotional rollercoaster") 
+    - Next.js ("SSR = sanity saved") 
+    - Tailwind CSS ("Pixel-perfect chaos") 
+    - Redux / Zustand ("State management therapy") 
+  Backend:
+    - Node.js ("Event loop magician") 
+    - Express.js ("Routing my frustrations") 
+    - GraphQL / REST APIs ("Endpoints of destiny") 
+  Databases:
+    - MongoDB ("Where documents go to party") 
+    - PostgreSQL ("Structured rebellion") 
+    - Redis ("Caching like a hoarder") 
+  Cloud & DevOps:
+    - Docker & Docker Compose ("Ship it, pray it floats") 
+    - Kubernetes ("Because pods are life") 
+    - AWS / Vercel / Firebase ("Deploy or perish") 
+  Tools & Utilities:
+    - Git & GitHub ("Commit, push, repeat… cry") 
+    - Postman / Insomnia ("Test API or die trying") 
+    - VS Code Extensions & Linters ("Judge me silently") 
+
+Daily Rituals:
+  - Coffee intake: "Infinite ☕"
+  - Debugging mantra: "Why isn't this working… AGAIN?" 😭
+  - Weekend plan: "Refactor, refactor, refactor… maybe sleep"
+
 ```
 
 </div>
 
 ### 📈 **Open Source Contributions**
-- Building AI tools for developer productivity
-- Creating educational AI content and tutorials
-- Developing open-source ML libraries
-- Developing open-source npm packages for community
-- Create React Helper kits for react-community
+- Building full-stack MERN applications and templates for developers.
+
+- Creating educational tutorials on React, Node.js, and modern web development.
+
+- Developing open-source npm packages for UI components, utilities, and API integrations.
+
+- Contributing to React and Node.js community libraries.
+
+- Building helper kits and boilerplate projects to accelerate React/Next.js development.
+
+- Sharing cloud deployment and DevOps guides for MERN projects.
 
 ---
 
-## 🤝 Let's Collaborate
+## 🤝 Let’s Engineer Together
 
 <div>
 
-### 🎯 **Open for Collaboration On:**
-- 🤖 **AI/ML Projects** - Neural networks, deep learning, generative AI
-- 🌐 **Full-Stack Development** - Modern web applications with AI integration
-- 📱 **Mobile Development** - React Native, cross-platform solutions
-- 🔬 **Research Projects** - Academic and industry AI research
-- 🚀 **Startup Ventures** - AI-driven product development
-- 🎓 **Mentoring** - Guiding next-gen AI engineers
+### 🎯 **Projects I’m Open to Collaborate On:**
+- 🌐 **Web Applications** – Modern, scalable MERN apps with responsive and dynamic frontends.
+
+🛠️ **API & Backend Systems** – RESTful & GraphQL APIs, Node.js microservices, and server-side optimization.
+
+📱 **Mobile & Cross-Platform** – React Native apps and seamless web-to-mobile integration.
+
+☁️ **Cloud-Enabled Projects** – Serverless functions, cloud deployments (AWS, Firebase, Vercel), and DevOps automation.
+
+🚀 **Startup & Product Development** – End-to-end full-stack solutions for innovative products.
+
+🎓 **Mentorship & Tutorials** – Guiding developers in React, Node.js, MongoDB, and full-stack best practices.
 
 </div>
 
 ---
 
-## 🌐 Connect & Follow
+## 🌐 Engage & Collaborate
 <div align="center" >
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/akhshyganesh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhshyganesh)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](http://www.medium.com/!akhshyganesh)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.x.com/akhshyganesh)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@akhshyganesh)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://www.instagram.com/akhshy_official)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VivekRaja01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivekraja127/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vivek_raja127/)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics & Performance
-
+## 📊 Dev Stats & Insights
 <div align="center" >
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhshyganesh&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages"/>
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekRaja01&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akhshyganesh&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak"/>
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VivekRaja01&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akhshyganesh&theme=redical&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" alt="Activity Graph"/>
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VivekRaja01&theme=radical&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" alt="Activity Graph"/>
 
-</div>
-
----
-
-## 🏆 Achievements & Recognition
-
-<div>
-
-### 🎯 **Performance Metrics & Tech Stats**
-- 📈 **100+** AI/ML models deployed across production environments
-- 🚀 **200+** Full-stack applications with integrated AI capabilities  
-- 🌟 **10K+** Lines of production-grade code committed
-- 🧠 **15** Different neural network architectures mastered
-- 🔥 **24/7** Availability for debugging critical AI systems
-- 💡 **∞** Cups of coffee consumed while training models
 
 </div>
 
 ---
 
-## 💡 Techy Vibes & Developer Life
+## 🏆 Milestones & Honors
 
 <div>
 
-*"Any sufficiently advanced technology is indistinguishable from magic... until you see the code."* - Arthur C. Clarke (modified by every developer ever)
+### 🎯 **Dev Performance & Stats**
+- 🚀 **200+** Full-Stack MERN applications developed and deployed.
 
-### 🎯 **Current Focus & Obsessions:**
-- 🔮 **Quantum Machine Learning** - Making qubits do backpropagation 
-- 🧠 **AGI Research** - Teaching machines to understand memes
-- 🌍 **AI for Social Good** - Solving world hunger, one model at a time
-- 🚀 **Space Tech** - Training AI to find alien civilizations
-- 🎨 **Generative Art** - Making AI create better art than me (not hard)
+🌐 **150+** RESTful & GraphQL APIs designed for scalable applications.
 
-### ⚡ **Developer Lifestyle & Quirks:**
+🌟 **20K+** Lines of production-ready code committed.
+
+🛠️ **50+** Reusable React components, utilities, and npm packages created.
+
+☁️ **100+** Cloud deployments across AWS, Firebase, and Vercel.
+
+💡 **∞** Cups of coffee consumed while debugging and optimizing full-stack systems.
+
+</div>
+
+---
+
+## 💡 Full-Stack Chronicles
+
+<div>
+
+*"Advanced technology feels like magic… until a full-stack developer dives into the code."*
+
+### 🎯 **Current Dev Focus:**
+-🌐 **Full-Stack Web Applications** – Building scalable, high-performance MERN applications.
+
+-🛠️ **API & Backend Systems** – Designing RESTful & GraphQL APIs, server-side logic, and database architectures.
+
+-☁️ **Cloud & DevOps Integration** – Deploying full-stack apps on AWS, Firebase, Vercel, and automating CI/CD workflows.
+
+-📱 **Cross-Platform Development** – React Native and progressive web apps for seamless user experiences.
+
+-🎨 **UI/UX & Frontend Optimization** – Crafting responsive, intuitive, and performant user interfaces.
+
+### ⚡ **Life of a Full-Stack Engineer:**
 ```javascript
-const developerLife = {
-    wakeUpTime: "When the build finishes",
-    breakfast: "Coffee.black().strong()",
-    workMode: "Deep focus until someone says 'quick question'",
-    lunchBreak: "What's lunch? I have Stack Overflow",
-    debuggingStyle: "Console.log() everything until it works",
-    sleepSchedule: "Sleep is for machines without proper cooling",
-    weekendPlans: ["Contribute to OSS", "Learn new framework", "Actually touch grass"]
+const fullStackLife = {
+    wakeUpTime: "When the server starts without errors",
+    breakfast: "Coffee.strong().extraShot()",
+    workMode: "Deep coding until GitHub notifications appear",
+    lunchBreak: "React.useSnack() while checking Stack Overflow",
+    debuggingStyle: "Console.log() & breakpoint debugging everywhere",
+    sleepSchedule: "Sleep only when CI/CD is green",
+    weekendPlans: ["Build MERN side project", "Refactor old code", "Actually go outside"]
 };
 
-// Life hack: Convert caffeine to code
+// Life hack: Turn coffee into features
 function codingSession(coffeeCups) {
-    return coffeeCups * 1000 + "lines of code";
+    return coffeeCups * 500 + " lines of production-ready MERN code";
 }
+
 ```
 
-### 🤓 **Nerdy Confessions:**
-- � I measure code quality by how aesthetically pleasing the syntax highlighting looks
-- 🔍 I've spent 3 hours optimizing code that saves 0.01 seconds
-- 🐧 I name my servers after Star Wars characters and they all run Linux
-- 🎵 My coding playlist includes neural network training sounds as white noise
-- 🌙 Peak productivity hours: 11 PM - 4 AM (when the internet is faster)
-- 🦾 I dream in Python but think in pseudocode
+### 🤓 **Dev Secrets & Insights:**
+- � I judge code quality by how clean and readable my React components are.
 
-### 🛠️ **Tech Philosophy:**
-> *"There are only two hard things in Computer Science: cache invalidation, naming things, and off-by-one errors."*
+-⚡ I’ve spent hours optimizing a MongoDB query that improves load by 0.01 seconds.
+
+-🐧 All my Node.js servers are named after Star Wars characters, running on Linux.
+
+-🎧 My coding playlist: lofi beats mixed with build notification sounds.
+
+-🌙 Peak productivity hours: 11 PM – 4 AM (when CI/CD pipelines finally cooperate).
+
+-🛠️ I dream in JavaScript but architect in TypeScript and pseudocode.
+### 💡**Development Philosophy:**
+> *"Full-stack development is 10% coding, 90% deciding what to name your components, APIs, and variables."*
 
 </div>
 
@@ -351,48 +477,51 @@ function codingSession(coffeeCups) {
 
 ```bash
 $ whoami
-akhshyganesh@localhost:~$ AI Engineer | Full-Stack Developer | Coffee Addict
+vivekraja@localhost:~$ MERN Stack Developer | Full-Stack Engineer | Coffee Enthusiast
 
 $ cat /etc/developer-info
-Name: Akhshy Ganesh B
-Role: Senior AI Engineer & Full-Stack Developer  
+Name: Vivek Raja
+Role: MERN Stack Developer & Full-Stack Engineer
 Location: India 🇮🇳
-Specialty: Making machines smarter than humans (except at making coffee)
-Status: Currently training AGI Model in my basement
+Specialty: Building scalable web apps and elegant APIs
+Status: Currently refactoring a React component for peak performance
 
 $ ps aux | grep passion
-- Artificial Intelligence Research ████████████ 99.9%
-- Neural Network Architecture ████████████ 98.5%  
-- Open Source Development ████████████ 95.2%
-- Problem Solving & Innovation ████████████ 97.8%
+- Full-Stack Application Development ████████████ 99.9%
+- RESTful & GraphQL APIs ████████████ 98.5%
+- Open Source Contributions ████████████ 95.2%
+- Problem Solving & Optimization ████████████ 97.8%
 - Coffee Consumption ████████████ 100.0%
 
 $ history | tail -2
-- Built real-time object detection system
-- Taught AI to generate better code comments than me
+- Deployed MERN app with cloud integration
+- Refactored legacy Node.js API for better performance
 
 $ fortune
-"In a world of 1s and 0s, be the algorithm that makes the difference."
+"Write clean code, deploy often, and let your APIs do the talking."
 
 $ uptime
-System online: 24/7 (Powered by caffeine and curiosity)
-Load average: 3.14, 2.71, 1.41 (Math constants everywhere!)
+System online: 24/7 (Fueled by Node.js, React, and caffeine)
+Load average: 2.71, 3.14, 1.41 (Math constants included)
 
 $ exit
-Connection to genius.local closed.
+Connection to fullstack.local closed.
+
 ```
 
 ---
 
-## �🚀 Support My AI Journey
+## �🚀 Support My Full-Stack Projects
 
 <div align="center" >
 
-If you find my work inspiring or want to support, consider buying me a coffee! ☕
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/akhshyganesh)
 
-### 💫 *"Building the future, one neural network at a time"*
+If you enjoy my work or want to support my full-stack projects, consider fueling my development with a coffee! ☕
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge\&logo=buymeacoffee\&logoColor=black)](https://www.buymeacoffee.com/vivekraja127)
+
+### 💫 *"Building the future, one MERN application at a time"*
 
 </div>
 
@@ -400,9 +529,7 @@ If you find my work inspiring or want to support, consider buying me a coffee! �
 
 <div align="center" >
 
-**⭐ Star my repos if you find them interesting!**  
-**🤝 Let's connect and build something amazing together!**
-
-![Profile Views](https://komarev.com/ghpvc/?username=akhshyganesh&style=for-the-badge&color=blueviolet)
-
+**⭐ Star my repositories if you find my full-stack projects valuable!**
+**🤝 Let’s connect and create scalable, high-performance web applications together!**
+![Profile Views](https://komarev.com/ghpvc/?username=VivekRaja01&style=for-the-badge&color=blueviolet)
 </div>
