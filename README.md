@@ -49,9 +49,9 @@ Using AI tools to enhance development speed & user experience:
 - Smart content automation  
 - Prompt engineering  
 - Basic chatbot-style workflows  
-- AI-powered form checks & automation
+- AI-powered form checks & automation  
 
-**Tools:** OpenAI • Gemini • HuggingFace APIs • LangChain (lite)
+**Tools:** OpenAI • HuggingFace APIs • LangChain (lite)
 
 ---
 
@@ -71,12 +71,47 @@ Git • GitHub • VS Code • Postman • Firebase • Render • Vercel
 
 ---
 
+# 🧩 Featured Projects
+
+### 1️⃣ Greenden - Tailwind Landing Page
+- **GitHub:** [Greenden-Tailwind](https://github.com/VivekRaja01/Greenden-Tailwind)  
+- **Live:** [View Site](https://vivekraja01.github.io/Greenden-Tailwind/index.html)
+
+### 2️⃣ TripExplorer - Responsive Travel Website
+- **GitHub:** [Trip-Explorer](https://github.com/VivekRaja01/Trip-Explorer)  
+- **Live:** [View Site](https://vivekraja01.github.io/Trip-Explorer/)
+
+### 3️⃣ Login Page
+- **GitHub:** [Login-page](https://github.com/VivekRaja01/Login-page)  
+- **Live:** [View Site](https://vivekraja01.github.io/Login-page/)
+
+### 4️⃣ EliteView - Movie & TV Streaming Platform
+- **GitHub:** [EliteView](https://github.com/VivekRaja01/EliteView)  
+- **Live:** [View Site](https://elite-view-mu.vercel.app/)
+
+### 5️⃣ Rain Or Shine - Real-Time Weather App
+- **GitHub:** [Rain-Or-Shine](https://github.com/VivekRaja01/Rain-Or-Shine)  
+- **Live:** [View Site](https://rain-or-shine-tau.vercel.app/)
+
+### 6️⃣ Do You Love Me? - Interactive Fun Page
+- **GitHub:** [Love-Me](https://github.com/VivekRaja01/Love-Me)  
+- **Live:** [View Site](https://vivekraja01.github.io/Love-Me/)
+
+---
+
+# 📈 GitHub Performance
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VivekRaja01&theme=radical&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" />
+</p>
+
+---
+
 # 🔥 Current Focus
 - Building **production-grade MERN apps**  
 - Designing **scalable REST APIs**  
 - Crafting **professional UI/UX**  
-- Integrating small-scale **AI automation**  
-- Learning advanced cloud & system design  
+- Integrating **AI-assisted features**  
+- Learning **cloud & advanced system design**  
 
 ---
 
@@ -89,24 +124,12 @@ Git • GitHub • VS Code • Postman • Firebase • Render • Vercel
 
 ---
 
-# 🧩 Featured Projects
-(Add when ready — I will format them cleanly for you.)
-
----
-
-# 📈 GitHub Performance
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VivekRaja01&theme=radical&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" />
-</p>
-
----
-
 # 🤝 Connect With Me
 
-- **GitHub:** https://github.com/VivekRaja01  
-- **LinkedIn:** https://www.linkedin.com/in/vivekraja127/  
-- **Portfolio:** https://vivekraja01.github.io/Vivek-Raja-Github.io/  
-- **Instagram:** https://www.instagram.com/vivek_raja127/  
+- **GitHub:** [https://github.com/VivekRaja01](https://github.com/VivekRaja01)  
+- **LinkedIn:** [https://www.linkedin.com/in/vivekraja127/](https://www.linkedin.com/in/vivekraja127/)  
+- **Portfolio:** [https://vivekraja01.github.io/Vivek-Raja-Github.io/](https://vivekraja01.github.io/Vivek-Raja-Github.io/)  
+- **Instagram:** [https://www.instagram.com/vivek_raja127/](https://www.instagram.com/vivek_raja127/)  
 - **Email:** rajavivek773@gmail.com  
 
 ---
@@ -119,3 +142,4 @@ const developerLife = {
   coffeeLevel: "Optimized at runtime",
   mission: "Build solutions that perform, scale, and inspire."
 };
+
