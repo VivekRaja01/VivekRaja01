@@ -1,227 +1,110 @@
-<!-- Dark Mode Premium Banner -->
-<p align="center">
-  <img src="A_digital_graphic_design_banner_features_Vivek_Raj.png" alt="Vivek Raja — Full Stack Developer Banner" width="100%">
-</p>
+<div align="center">
 
-<!-- Light Mode Minimal Banner -->
-<p align="center">
-  <img src="A_business_card-style_digital_graphic_design_featu.png" alt="Vivek Raja Light Banner" width="100%">
-</p>
+# 🚀 Vivek Raja  
+### MERN Stack Developer | Full-Stack Engineer
 
-<!-- Header -->
-<h1 align="center">🚀 Vivek Raja</h1>
-<h3 align="center">MERN Stack Developer | Full-Stack Engineer | Software Developer</h3>
+Building clean, scalable and high-performance web applications with modern JavaScript technologies.
 
-<p align="center">
-  📍 Tamil Nadu, India • 📧 rajavivek773@gmail.com  
-</p>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Coming_Soon-blue?style=for-the-badge)](#)
+[![Email](https://img.shields.io/badge/📧_Contact-rajavivek773@gmail.com-red?style=for-the-badge)](mailto:rajavivek773@gmail.com)
+[![Location](https://img.shields.io/badge/📍_Based_in-India-green?style=for-the-badge)](#)
+
+</div>
 
 ---
 
-# 🌟 Professional Summary
-I am a results-driven **MERN Stack Developer & Full-Stack Engineer** specializing in building high-performance, scalable, and production-ready web applications.  
-With strong knowledge in **React, Node.js, Express.js, and MongoDB**, I develop clean UI, optimized backend architectures, and reliable database models.
+## 🎯 About Me
 
-I excel in:
+I’m a dedicated **MERN Stack Developer** with strong skills in building responsive UI, scalable backend services, and clean, maintainable code.  
+Passionate about creating efficient full-stack solutions and continuously improving through hands-on projects.
 
-- Building scalable frontend & backend systems  
-- Writing high-quality, reusable, and maintainable code  
-- Engineering structured, modular application architectures  
-- Solving engineering problems with clarity & precision  
-
-My work reflects **professionalism, modern engineering standards, and solution-oriented development.**
-
----
-
-# 🚀 Core Competencies (ATS Optimized)
-
-### **Full-Stack Engineering**
-- MERN Stack (MongoDB, Express, React, Node)
-- Component-Driven UI Engineering  
-- REST API Development  
-- Frontend Architecture  
-
-### **Architecture & System Design**
-- MVC Architecture  
-- Modular Backend Architecture  
-- API Routing & Validation  
-- Database Schema Modeling  
-
-### **Performance & Optimization**
-- Efficient Rendering  
-- Query Optimization  
-- Caching Strategies  
-- Scalable UI Patterns  
-
-### **Engineering Workflow**
-- Git & GitHub  
-- Postman API Testing  
-- SCRUM & Agile  
-- CI/CD Basics  
-
-### **Professional Strengths**
-- Requirement Analysis  
-- Problem Solving  
-- Clean Code Principles  
-- Team Collaboration  
-- Communication & Documentation  
+- 💻 **Full-Stack Development** – React.js, Node.js, Express.js, MongoDB  
+- 📦 **API Development** – Secure, structured & scalable RESTful APIs  
+- 🎨 **Frontend Engineering** – Responsive UI with HTML, CSS, JavaScript & Tailwind CSS  
+- ⚙️ **Backend Logic** – Authentication, routing, database modeling  
+- 🧩 **Problem Solver** – Strong debugging and logical thinking  
+- 📈 **Career Vision** – Build real-world, production-ready web applications
 
 ---
 
-# 🧠 Engineering Philosophy
-I build systems that are:
+## 🛠️ Technical Skills
 
-- **Modular** → Easy to maintain and extend  
-- **Scalable** → Ready for production growth  
-- **Secure** → Clean API and authentication architecture  
-- **Efficient** → Fast UI rendering & optimized backend logic  
-- **Human-Readable** → Code that teams can understand and build upon  
-
-I believe in writing code that is **clean, structured, testable, and production-oriented.**
-
----
-
-# 🏗️ Development Architecture & Workflow
-
-### 🔧 Backend Architecture
-- RESTful API Design  
-- Controllers, Routers, Services, Middleware  
-- JWT Authentication  
-- Error Handling Layers  
-- Secure Endpoints with Validation  
-
-### 🎨 Frontend Workflow
-- Reusable Components  
-- Clean Hooks-based logic  
-- TailwindCSS Design System  
-- Responsive UI & Professional Layout  
-- Optimized State Management  
-
-### 💾 Database Planning
-- Schema Design  
-- Secure CRUD Operations  
-- Query Optimization  
-- Data Relationships  
-
----
-
-# 📂 Featured Projects (HR Friendly)
-
-### **📌 1. MERN Authentication System**
-A production-ready authentication system with JWT, hashing, and protected APIs.  
-**Tech:** React, Node.js, Express, MongoDB  
-**Impact:** Reusable auth architecture for multiple apps.
-
----
-
-### **📌 2. Responsive Modern Portfolio**
-Highly polished, animated portfolio using React + Tailwind with smooth UI/UX.  
-**Impact:** Showcases UI quality, structure, and engineering style.
-
----
-
-### **📌 3. Modular Dashboard System**
-Admin dashboard integrating third-party APIs with clean modular architecture.  
-**Impact:** Demonstrates real-world API integration.
-
----
-
-# 💼 Experience Overview
-
-Even as an early-career developer, I have hands-on experience with:
-
-- Building full-stack applications  
-- Clean frontend layout engineering  
-- Backend API development  
-- Authentication systems  
-- Using Git for version control  
-- Debugging and performance optimization  
-- Real-world project deployment  
-- Postman API testing  
-
----
-
-# 🏅 Certifications & Achievements
-- MERN Full-Stack Development  
-- JavaScript Fundamentals  
-- API Development  
-- Database Design  
-- Responsive Web Design  
-
----
-
-# 🧠 Problem-Solving Strengths
-- Debugging complex issues  
-- Breaking down large tasks  
-- Architecture planning  
-- Performance improvement  
-- Clean code refactoring  
-- Analytical decision-making  
-
----
-
-# 📚 Continuous Learning
-I actively explore:
-
-- Next.js  
-- Advanced React Patterns  
-- System Design  
-- Deployment Pipelines  
-- Cloud Hosting (Render, Vercel, Netlify)  
-- Software Engineering Best Practices  
-
----
-
-# 🧩 Leadership & Professional Skills
-- Clear Communication  
-- Time Management  
-- Task Ownership  
-- Team Collaboration  
-- Self-learning and Adaptability  
-
----
-
-# 💻 Tech Stack
-
-### 🚀 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+### 🌐 **Frontend Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### 🛠 Backend & Database
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express)
+### 🗄️ **Backend & Database**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🧰 Tools
+### 📦 **Tools & Utilities**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-# 📊 GitHub Analytics
-### 🔥 GitHub Streak  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VivekRaja01&theme=radical&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)
+## 🧩 Projects & Work
 
-### 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VivekRaja01&show_icons=true&theme=radical&hide_border=true)
+### 🔹 **Full-Stack Web Applications**
+- Developed end-to-end MERN applications with user authentication  
+- Built responsive, mobile-friendly user interfaces  
+- Integrated secure backend APIs with efficient database structures  
 
-### 🧠 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekRaja01&layout=compact&theme=radical&hide_border=true)
+### 🔹 **Frontend Interfaces**
+- Created modern UI screens using React & Tailwind CSS  
+- Implemented reusable components and state management  
 
----
-
-# 🌐 Connect With Me
-<p align="left">
-  <a href="https://github.com/VivekRaja01"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
-  <a href="https://www.linkedin.com/in/vivekraja127/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:rajavivek773@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+### 🔹 **Backend Logic**
+- Designed REST APIs with Express.js  
+- Connected and structured MongoDB collections & schemas  
 
 ---
 
-<h3 align="center">✨ Building clean, modern, scalable applications — one commit at a time.</h3>
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekRaja01&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ffea&text_color=ffffff" alt="Top Languages"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VivekRaja01&theme=radical&hide_border=true&background=0D1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🤝 Collaboration
+
+I am open to collaborating on:
+
+- MERN stack projects  
+- Frontend development  
+- REST API development  
+- UI/UX implementation  
+- JavaScript-based web projects  
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VivekRaja01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
+
+</div>
+
+---
+
+<div align="center">
+
+**Thank you for visiting my profile!**  
+⭐ *Feel free to star my repositories.*
+
+</div>
