@@ -531,5 +531,7 @@ If you enjoy my work or want to support my full-stack projects, consider fueling
 
 **⭐ If my full-stack builds help you, feel free to star the repo!**
 **🤝 Join me in building scalable, high-performance digital products.**
+
 ![Profile Views](https://komarev.com/ghpvc/?username=VivekRaja01&style=for-the-badge&color=blueviolet)
+
 </div>
